@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WY-UCAS
+- 👋 Hi, I’m @pika
 - 👀 I’m interested in 🐱
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
